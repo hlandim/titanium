@@ -1,0 +1,25 @@
+
+".container": {
+	layout: 'vertical',
+	left : '5dp',
+	height: Titanium.UI.SIZE
+}
+
+"#name": {
+	width: Titanium.UI.SIZE,
+	color : 'black',
+	height: Titanium.UI.SIZE,
+	font: {
+		fontSize: '18dp'
+	}
+}
+
+"#location": {
+	top : '35dp',
+	width: Titanium.UI.SIZE,
+	color : 'black',
+	height: Titanium.UI.SIZE,
+	font: {
+		fontSize: '16dp'
+	}
+}

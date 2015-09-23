@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="myTableView" onClick="clickedOnTableView"></TableView>
+		
+	</Window>
+</Alloy>
